@@ -14,9 +14,10 @@ void main(){
 
   String text = "hola Mundo";
   
+
    var arr = text.split(' ');
     
-   print(arr);
+   
    var num = arr.length;
    print("Tiene ${arr.length} letras");
 }
