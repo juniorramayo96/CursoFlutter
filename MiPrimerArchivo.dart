@@ -1,7 +1,14 @@
 void main(){
 
-   String firstVariable = "Mi Primera Linea Dart";
    
-   print('Esta es mi: $firstVariable');
+  String name = 'Junior Ramayo';
+  
+  
+  
+  
+  
+  print(name[0]);
+  print(name[name.length -1]);
+}
   
 }
